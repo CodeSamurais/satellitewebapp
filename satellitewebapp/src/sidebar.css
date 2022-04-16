@@ -1,0 +1,17 @@
+.clicker
+{
+    padding: 15px;
+    background-color: rgb(63, 63, 63);
+    color: white;
+    border-radius: 5px;
+    /* box-shadow: ; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    user-select: none;
+    width: fit-content;
+    cursor: pointer;
+}
+
+body
+{
+    background-color: black;
+}
